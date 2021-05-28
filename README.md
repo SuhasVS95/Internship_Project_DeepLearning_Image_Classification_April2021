@@ -19,7 +19,7 @@ American Sign Language (ASL) is the primary language used by many deaf individua
 8. Test the Model	
 9. Visualize Mistakes
 
-## Visualize the considered 3 signs A,B,C:
+## Visualize the actual signs A,B,C:
 
 ![image](https://user-images.githubusercontent.com/70081663/119942028-f759bc00-bfae-11eb-84f3-670cc67edc6f.png)
 
