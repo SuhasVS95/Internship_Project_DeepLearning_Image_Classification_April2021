@@ -9,15 +9,15 @@ American Sign Language (ASL) is the primary language used by many deaf individua
 
 ## Tasks Completed:
 
-1.Importing the required packages and loading the data	
-2.Visualize the training data	
-3.Examine the Dataset	
-4.One-Hot Encode the Data	
-5.Define the Model	
-6.Compile the model	
-7.Train the model	
-8.Test the Model	
-9.Visualize Mistakes
+1. Importing the required packages and loading the data	
+2. Visualize the training data	
+3. Examine the Dataset	
+4. One-Hot Encode the Data	
+5. Define the Model	
+6. Compile the model	
+7. Train the model	
+8. Test the Model	
+9. Visualize Mistakes
 
 ## Visualize the considered 3 signs A,B,C:
 
