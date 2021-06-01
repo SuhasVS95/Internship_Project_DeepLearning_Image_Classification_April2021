@@ -1,9 +1,10 @@
 
-https://user-images.githubusercontent.com/70081663/120234059-c7433f00-c274-11eb-88b3-402875c0ac6c.mp4
+# Internship Project DeepLearning - American Sign Language Classification
 
-# Internship Project DeepLearning
+## Demo:
 
-This is a project that I had completed as a part of intership at MedTourEasy in the month of April, 2021.
+https://user-images.githubusercontent.com/70081663/120382607-78afa680-c341-11eb-8d72-ea06c83acb87.mp4
+
 
 ## Problem Statement:
 
@@ -42,3 +43,6 @@ American Sign Language (ASL) is the primary language used by many deaf individua
 6. Trained the data with the arguments x_train,y_train_encoded,epochs=2.
 7. The model is a good fit with an accuracy of ~99% on both the train and test datasets.
 8. Visualised the model prediction mistakes which were only 2 misclassifications.
+
+NOTE: I have also deployed using streamlit web app using ngrok tunneling approach to link the local system to web. 
+Please refer the the web app jupyter notebook and also the demo working.
