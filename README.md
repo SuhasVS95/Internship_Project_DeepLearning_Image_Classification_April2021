@@ -1,5 +1,5 @@
 
-# Internship Project DeepLearning - American Sign Language Classification
+# Internship(MedTourEasy) Project DeepLearning - American Sign Language Classification
 
 ## Demo:
 
