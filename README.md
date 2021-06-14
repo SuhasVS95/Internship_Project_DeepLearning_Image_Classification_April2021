@@ -46,3 +46,7 @@ American Sign Language (ASL) is the primary language used by many deaf individua
 
 NOTE: I have also deployed using streamlit web app using ngrok tunneling approach to link the local system to web. 
 Please refer the the web app jupyter notebook and also the demo working.
+
+Credits: Web App deployment is inspired from the work of Nachiketa Hebbar.
+Link: https://www.youtube.com/watch?v=Q1NC3NbmVlc
+
